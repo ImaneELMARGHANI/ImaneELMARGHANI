@@ -1,4 +1,6 @@
 ### Hi there 👋
+Hi I'm Imane EL MARGHANI
+I'm currently a student in ALX SE Program
 
 <!--
 **ImaneELMARGHANI/ImaneELMARGHANI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
