@@ -13,6 +13,8 @@ I'm Imane EL MARGHANI, a 22-year-old developer.
 ![GitHub followers](https://img.shields.io/github/followers/ImaneELMARGHANI?label=Follow&style=social)
 
 ## Stats 
+## Language and tools 
+
 <div align="center">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ImaneELMARGHANI&theme=material-palenight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="ImaneELMARGHANI" /></p>
