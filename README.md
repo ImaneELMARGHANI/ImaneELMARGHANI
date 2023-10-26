@@ -21,7 +21,7 @@ I'm Imane EL MARGHANI, a 22-year-old developer.
 
 ![](https://github-profile-trophy.vercel.app/?username=dracula&theme=material-palenight&no-frame=false&no-bg=false&margin-w=8)
 </div>
-**Languages and Tools:** 
+## Languages and Tools 
 <div align="center">
 
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
