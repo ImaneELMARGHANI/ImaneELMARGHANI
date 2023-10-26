@@ -13,14 +13,16 @@ I'm Imane EL MARGHANI, a 22-year-old developer.
 ![GitHub followers](https://img.shields.io/github/followers/ImaneELMARGHANI?label=Follow&style=social)
 
 ## Stats
+<div align="center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ImaneELMARGHANI&theme=material-palenight&show_icons=true&hide_border=true&include_all_commits=true&count_private=false" alt="ImaneELMARGHANI" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ImaneELMARGHANI&theme=material-palenight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="ImaneELMARGHANI" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ImaneELMARGHANI&theme=material-palenight&hide_border=true" alt="ImaneELMARGHANI" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaneELMARGHANI&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="ImaneELMARGHANI" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaneELMARGHANI&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="ImaneELMARGHANI" /></p>
 
 ![](https://github-profile-trophy.vercel.app/?username=dracula&theme=material-palenight&no-frame=false&no-bg=false&margin-w=8)
-
+</div>
 **Languages and Tools:** 
+<div align="center">
 
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
@@ -38,6 +40,8 @@ I'm Imane EL MARGHANI, a 22-year-old developer.
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ImaneELMARGHANI.ImaneELMARGHANI)
+</div>
+
 <!--
 **ImaneELMARGHANI/ImaneELMARGHANI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
