@@ -4,16 +4,10 @@ I'm Imane EL MARGHANI, a 22-year-old developer.
   - 🔭 I’m currently a student in the ALX SE Programme.
   - 🌱 I’m currently learning WordPress.
   - 🤔 I’m looking for help with Javascript
-  - 📫 How to reach me: imanemarghani@gmail.com
   - 😄 Pronouns: She/her
-
-
-
-
-
 ## About Me
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/EmmanMargn)
-[![Linkedin: Connect](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/imane-e-b0a849201/)
+[![Linkedin: Connect](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ImaneELMARGHANI/)](https://www.linkedin.com/in/imane-e-b0a849201/)
 ![GitHub followers](https://img.shields.io/github/followers/ImaneELMARGHANI?label=Follow&style=social)
 
 
@@ -29,36 +23,9 @@ I'm Imane EL MARGHANI, a 22-year-old developer.
 | <a href="https://github.com/ImaneELMARGHANI/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ImaneELMARGHANI&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Imane's github stats" /></a> | <a href="https://github.com/ImaneELMARGHANI/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaneELMARGHANI&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
-
-
-
-
-
-
-
-
 <a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/ImaneELMARGHANI/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+  <img src="https://raw.githubusercontent.com/ImaneELMARGHANI/github-stats-transparent/output/generated/overview.svg" alt="ImaneELMARGHANI" align="right" />
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Stats
 
@@ -70,13 +37,6 @@ I'm Imane EL MARGHANI, a 22-year-old developer.
 
 
           
-
-
-
-
-
-
-
 
 **Languages and Tools:** 
 
@@ -95,22 +55,7 @@ I'm Imane EL MARGHANI, a 22-year-old developer.
 
 
 ![Imane's Github Stats](https://github-readme-stats.vercel.app/api?username=ImaneELMARGHANI&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameImaneELMARGHANI&hide=TeX&layout=compact)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImaneELMARGHANI&hide=TeX&layout=compact)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ImaneELMARGHANI.ImaneELMARGHANI)
 <!--
