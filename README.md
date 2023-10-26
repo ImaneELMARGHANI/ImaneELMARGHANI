@@ -12,7 +12,7 @@ I'm Imane EL MARGHANI, a 22-year-old developer.
 [![Linkedin: Connect](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ImaneELMARGHANI/)](https://www.linkedin.com/in/imane-e-b0a849201/)
 ![GitHub followers](https://img.shields.io/github/followers/ImaneELMARGHANI?label=Follow&style=social)
 
-## Stats
+## Stats 
 <div align="center">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ImaneELMARGHANI&theme=material-palenight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="ImaneELMARGHANI" /></p>
@@ -22,7 +22,6 @@ I'm Imane EL MARGHANI, a 22-year-old developer.
 ![](https://github-profile-trophy.vercel.app/?username=dracula&theme=material-palenight&no-frame=false&no-bg=false&margin-w=8)
 </div>
 ## Languages and Tools
-
 <div align="center">
 
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
