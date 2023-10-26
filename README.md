@@ -10,17 +10,7 @@ I'm Imane EL MARGHANI, a 22-year-old developer.
 [![Linkedin: Connect](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ImaneELMARGHANI/)](https://www.linkedin.com/in/imane-e-b0a849201/)
 ![GitHub followers](https://img.shields.io/github/followers/ImaneELMARGHANI?label=Follow&style=social)
 
-
-
-
-
-
-
-
-
-
-
-| <a href="https://github.com/ImaneELMARGHANI/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ImaneELMARGHANI&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Imane's github stats" /></a> | <a href="https://github.com/ImaneELMARGHANI/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaneELMARGHANI&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/ImaneELMARGHANI/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ImaneELMARGHANI&theme=material-palenight&show_icons=true&include_all_commits=true&hide_border=true" alt="Imane's github stats" /></a> | <a href="https://github.com/ImaneELMARGHANI/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaneELMARGHANI&layout=compact&theme=material-palenight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <a href="#macropower-title">
@@ -29,11 +19,11 @@ I'm Imane EL MARGHANI, a 22-year-old developer.
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=ImaneELMARGHANI&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="ImaneELMARGHANI" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ImaneELMARGHANI&theme=material-palenight&hide_border=false" alt="ImaneELMARGHANI" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaneELMARGHANI&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ImaneELMARGHANI" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=ImaneELMARGHANI&theme=material-palenight&show_icons=true&hide_border=true&include_all_commits=false&count_private=false" alt="ImaneELMARGHANI" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ImaneELMARGHANI&theme=material-palenight&hide_border=true" alt="ImaneELMARGHANI" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaneELMARGHANI&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="ImaneELMARGHANI" /></p>
 
-![](https://github-profile-trophy.vercel.app/?username=ImaneELMARGHANI&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ImaneELMARGHANI&theme=material-palenight&no-frame=false&no-bg=false&margin-w=8)
 
 
           
