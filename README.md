@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm Imane EL MARGHANI</h1>
 
   - 🔭 I’m currently a student in the ALX SE Programme.
-  - 🌱 I’m currently learning WordPress.
-  - 🤔 I’m looking for help with Javascript.
+  - 🌱 I’m currently learning Flutter.
+  <!--- 🤔 I’m looking for help with Javascript.-->
   - 😄 Pronouns: She/her.
 
 ## About Me
