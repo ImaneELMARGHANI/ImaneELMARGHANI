@@ -2,8 +2,8 @@
 
   - 🔭 I’m currently a student in the ALX SE Programme.
   - 🌱 I’m currently learning Flutter.
-  <!--- 🤔 I’m looking for help with Javascript.-->
   - 😄 Pronouns: She/her.
+  <!--- 🤔 I’m looking for help with Javascript.-->
 
 ## About Me
 
